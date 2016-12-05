@@ -1,6 +1,6 @@
-###### SavvySoftWorks, LLC
+# SavvySoftWorks, LLC
 
-###### Logo Information
+### Logo Information
 
 ###### Color
 
