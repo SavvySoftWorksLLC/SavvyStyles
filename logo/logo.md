@@ -9,7 +9,7 @@
 
 ###### Fonts
 
-- Circled S       Aqua Kana
+- Circled S       Eagle Lake
 - avvySoftWorks   Raleway
 
 ###### Good Manners and Thoughtful Respect
